@@ -1,0 +1,20 @@
+.styled-table th {
+    background-color: yellow;
+}
+
+.styled-table td:nth-child(1) {
+    background-color: #99ccff;
+}
+
+.styled-table td:nth-child(2) {
+    background-color: #000;
+    color: white;
+}
+
+.styled-table td:nth-child(3) {
+    background-color: #ffcc99;
+}
+
+.styled-table td {
+    font-weight: bold;
+}
